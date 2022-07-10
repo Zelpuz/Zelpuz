@@ -3,5 +3,5 @@
 - I primarily use Python for my research, and rely heavily on Pandas, Numpy, etc. If I need fast loops or multithreading, I might use Julia.
 - For specific use-cases I also use R and Igor Pro.
 - I also occasionally work with microcontrollers, such as Arduino, for deploying low-cost air quality and meteorology sensors.
-- In the past I've worked with Java and C as well, but mostly for education; this excludes the sorta-C that Arduino uses, which I've used quite a lot.
+- In the past I've worked with Java and C as well, but mostly for education; this excludes the sorta-C++ that Arduino uses, which I've used quite a lot.
 - Weirdly, I've also got experience working on the Honeywell TDC3000 in a production setting.
