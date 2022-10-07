@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zelpuz
+- 👋 Hi, I’m Taylor (@Zelpuz)
 - I'm a graduate student researching and studying air quality, sources of airborne pollution, how airborne pollution spreads, and how it affects our health. Most of my day-to-day research involves analyzing sets of existing air quality and meteorological time-series measurements.
 - I primarily use Python for my research, and rely heavily on Pandas, Numpy, etc. If I need fast loops or multithreading, I use Julia.
 - For specific use-cases I use R and Igor Pro.
