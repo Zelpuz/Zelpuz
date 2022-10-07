@@ -5,6 +5,6 @@
 - I also occasionally work with microcontrollers/computers, such as Arduino and Raspi, for deploying low-cost air quality and meteorology sensors.
 - In the past I've worked with Java and C as well, but mostly for education; this excludes the pseudo-C++ that Arduino uses, which I've used extensively.
 - For research methods: I measure trends and sudden changes in Toronto's traffic emissions with interrupted time-series analyses in a state-space framework. I measure traffic pollution emissions through via dispersion model regression with multiple measurement stations. For better flexibility, I write my own state-space models, rather than use widespread solutions such as SARIMAX or TBATS.
-- I have experience in machine learning platforms/libraries, including sklearn and Orange.
+- I have experience in machine learning and data analysis platforms/libraries, including sklearn and Orange.
 - Other Python libraries I often use include, but are not limited to: pandas, numpy, matplotlib, statsmodels, and scipy.
 - Weirdly, I've also got experience working on the Honeywell TDC3000 in a production setting.
