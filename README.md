@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Taylor (@Zelpuz)
-- I'm a graduate student studying air quality in Toronto, Canada. This includes sources of airborne pollution, how airborne pollution spreads, and how it affects our health. Most of my day-to-day research involves analyzing sets of existing air quality and meteorological time-series measurements.
-- I primarily use Python for my research, and rely heavily on Pandas, Numpy, etc. If I need fast loops or multithreading, I use Julia. I interface with raw measurements through SQL/Postgres.
-- For some use-cases I use R and Igor Pro.
-- I also occasionally work with microcontrollers/computers, such as Arduino and Raspi, for deploying low-cost air quality and meteorology sensors.
-- In the past I've worked with Java and C as well, but mostly for education; this excludes the pseudo-C++ that Arduino uses, which I've used extensively.
-- For research methods: I measure trends and sudden changes in Toronto's traffic emissions with mechanistic mass transport models and time-series analysis. I measure traffic pollution emissions through via dispersion model regression with multiple measurement stations. For some time-series analysis I use state-space models, and I write my own state-space models, rather than use widespread solutions such as SARIMAX or TBATS.
-- I have experience in machine learning and data analysis platforms/libraries, including sklearn and Orange.
-- Other Python libraries I often use include, but are not limited to: pandas, numpy, matplotlib, statsmodels, and scipy.
-- Weirdly, I've also got experience working on the Honeywell TDC3000 in a production setting.
+👋 Hi, I’m Taylor (@Zelpuz). I'm a research scientist studying air pollution exposure at Health Canada. My primary toolkit includes Python w/ pandas, numpy, sklearn, etc. Also used Julia in the past for fast loops. One of the dozens of people alive who've coded on the Honeywell TDC3000.
