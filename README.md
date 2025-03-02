@@ -1,1 +1,1 @@
-👋 Hi, I’m Taylor (@Zelpuz). I'm a research scientist studying air pollution exposure at Health Canada. My primary toolkit includes Python w/ pandas, numpy, sklearn, etc. Also used Julia in the past for fast loops. One of the dozens of people alive who've coded on the Honeywell TDC3000.
+👋 Hi, I’m Taylor (@Zelpuz). I'm a data scientist working with air pollution measurements and modelling at Health Canada. My primary toolkit includes Python w/ pandas, numpy, sklearn, xgboost, etc. Fun fact: I've written code on a production Honeywell TDC3000.
