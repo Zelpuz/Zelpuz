@@ -1,1 +1,1 @@
-👋 Hi, I’m Taylor (@Zelpuz). I'm a data scientist working with air pollution measurements and modelling at Health Canada. My primary toolkit includes Python w/ pandas, numpy, sklearn, xgboost, etc. Fun fact: I've written code on a production Honeywell TDC3000.
+👋 Hi, I’m Taylor (@Zelpuz). I'm a data scientist at Venterra Realty. I build econometric forecasts using a blend of traditional models like ARIMA, State Space, etc., and machine learning including XGBoost and AutoGluon. I make my work accessible to colleagues with interactive apps via streamlit.
