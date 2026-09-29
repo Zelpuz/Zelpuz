@@ -1,3 +1,3 @@
-👋 Hi, I’m Taylor (@Zelpuz). I'm a data scientist at Venterra Realty. I build econometric forecasts using a blend of traditional models like ARIMA, State Space, etc., and machine learning including XGBoost and AutoGluon. I make my work accessible to colleagues with tools like streamlit and shiny.
+👋 Hi, I’m Taylor (@Zelpuz). I work as a data scientist at Venterra Realty. Most of my work involves time series or spatiotemporal data, usually building predictive (forecasting or spatial-filling) models.
 
 In the past I worked on air pollution research at the University of Toronto and Health Canada.
